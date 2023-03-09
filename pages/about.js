@@ -9,7 +9,7 @@ export default function about() {
       <div className="back-menu"><a href="javascript:history.back()">Back</a></div>
       <div className="logo-main">
           
-          <Link href='/'>homepage
+          <Link href='/'>homepages
               <svg id="lenio-text" xmlns="http://www.w3.org/2000/svg" width="208.905" height="50.914" viewBox="0 0 208.905 50.914">
                 <g id="LITTLEbig_Logo_final-05" transform="translate(-19.37 -16.83)">
                   <g id="yellow-icon" data-name="Group 712" transform="translate(213.911 16.83)">
